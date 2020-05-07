@@ -1,1 +1,5 @@
-creating more files to see how pull vs fetch works locally
+This line as replace in feature-2 branch
+
+This file was modified locally
+
+This line as added in feature-2 branch
